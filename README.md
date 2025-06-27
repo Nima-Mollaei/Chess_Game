@@ -20,7 +20,7 @@ This project is a full-featured chess engine and GUI built with **Python** and *
 
 ## 🎮 Features
 
-✅ Classic 8×8 chessboard with Unicode pieces  
+✅ Classic 8×8 chessboard with Unicode pieces  . 
 ✅ All standard rules of chess enforced:
 - Legal move validation
 - Castling (both sides)
