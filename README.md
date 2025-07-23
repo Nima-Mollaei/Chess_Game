@@ -80,6 +80,7 @@ Architecture is modular and easily extensible for future enhancements.
 
 ---
 
+
 ## 🤝 Contributing
 
 Feel free to contribute to this project! Fork the repository and submit a pull request. If you find any issues or have suggestions, please open an issue.
