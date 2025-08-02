@@ -451,6 +451,7 @@ class ChessGame:
             dummy.append([p if p is None else Piece(p.name, p.color) for p in row])
         return dummy
 
+
 if __name__ == "__main__":
     root = tk.Tk()
     root.title("Chess")
