@@ -10,6 +10,7 @@ PIECES = {
     'k': '♚', 'q': '♛', 'r': '♜', 'b': '♝', 'n': '♞', 'p': '♟'
 }
 
+
 class Piece:
     def __init__(self, name, color):
         self.name = name
